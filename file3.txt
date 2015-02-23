@@ -1,4 +1,4 @@
 file3 line
 another line was added
-
-added from local...conflict
+added from local...conflict solved
+last line from master
